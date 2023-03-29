@@ -1,5 +1,8 @@
 # AI2SQL Chrome 插件
 
+![image](https://user-images.githubusercontent.com/17562650/228530127-deda4ac8-1886-4707-8118-d06661c5b35b.png)
+
+
 AI2SQL 是一个 Chrome 插件，它可以将自然语言问题翻译成 SQL 查询语句。该插件利用 OpenAI API，为用户提供便捷的 SQL 查询生成功能。
 
 ## 功能
